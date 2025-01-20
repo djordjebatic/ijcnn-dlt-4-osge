@@ -1,5 +1,4 @@
 ---
-title: Tutorial
 nav: Tutorial
 ---
 
