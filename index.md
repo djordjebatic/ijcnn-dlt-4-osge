@@ -48,7 +48,7 @@ Please follow the submission guideline from the [IJCNN 2025 Submission Website](
 - **21 February 2025** - [Tutorial Proposal Submission Deadline](https://djordjebatic.github.io/ijcnn-dlt-4-osge/content/2-tutorial.html)
 - **3 March 2025** - Tutorial Notification of Acceptance
 - **20 March 2025** - Workshop Paper Submission Deadline
-- **31 March 2025** - Paper Acceptance Notification
+- **15 April 2025** - Paper Acceptance Notification
 - **1 May 2025** - Camera-ready Submission Deadline
 - **TBA** - Workshop & Tutorial Date
 
