@@ -7,7 +7,7 @@ layout: page
 
 <h1 style="text-align: center;"> Workshop: Deep Learning Techniques for Observable Smart Grid and Sustainable Energy Systems</h1>
 <h2 style="text-align: center;"><a href="https://2025.ijcnn.org/">International Joint Conference on Neural Networks (IJCNN) 2025</a></h2>
-<h4 style="text-align: center;"> 30th June - 5th July 2024, Rome, Italy</h4>
+<h4 style="text-align: center;"> 30th June - 5th July 2025, Rome, Italy</h4>
 <h4 style="text-align: center;"> Supported by <a href="http://www.gecad.isep.ipp.pt/ci4energy/">IEEE CIS Task Force on Computational Intelligence in the Energy Domain</a></h4>
 
 ---
