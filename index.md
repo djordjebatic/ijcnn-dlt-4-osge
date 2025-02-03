@@ -55,7 +55,7 @@ Please follow the submission guideline from the [IJCNN 2025 Submission Website](
 
 ## Sponsorship Possibilities
 
-We are offering sponsorship opportunities to various organizations eager to showcase its commitment to advancing the field of artificial intelligence, support the worshkop, and gain visibility among prominent researchers, engineers and students. For more information, visit our [Sponsorship Page](https://djordjebatic.github.io/ijcnn-dlt-4-osge/content/5-sponsorship.html).
+We are offering sponsorship opportunities to various organizations eager to showcase its commitment to advancing the field of artificial intelligence, support the workshop, and gain visibility among prominent researchers, engineers and students. For more information, visit our [Sponsorship Page](https://djordjebatic.github.io/ijcnn-dlt-4-osge/content/5-sponsorship.html).
 
 ## Organizers
 
