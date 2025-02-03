@@ -36,5 +36,4 @@ Number of attendees: at least 50 people
 
 <h3> Sponsorship REGISTRATION </h3>
 
-To become a sponsor and contribute to the workshop, the registration is possible through the official website of the conference 
-https://2025.ijcnn.org/sponsor/become-a-sponsor 
+To become a sponsor and contribute to the workshop, the registration is possible through the official website of the conference: [https://2025.ijcnn.org/sponsor/become-a-sponsor](https://2025.ijcnn.org/sponsor/become-a-sponsor).
