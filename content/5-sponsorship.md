@@ -1,9 +1,7 @@
 ---
-title: Sponsorship
+title: Sponsorship Possibilities
 nav: Sponsorship
 ---
-
-<h1> Sponsorship Possibilities </h1>
 
 <h3> Premium Sponsorship Package Benefits (700$)</h3> 
 
