@@ -3,10 +3,17 @@ title: Sponsorship Possibilities
 nav: Sponsorship
 ---
 
-| Sponsor Package | Price | Benefits | 
-|:-------------------:|:--------:|:-----------:| 
-| Premium Sponsorship Package | $700 | - **Visible Logo**: The company's logo will be prominently displayed on all promotional materials, including the website and social media<br>- **Exhibition Stand**: Dedicated space for an exhibition stand during the workshop<br>- **Agenda Slot**: Opportunity to give a brief speech or presentation during the workshop<br>- **Promotional Material**: Inclusion of the company's promotional material in participant kits | 
-| Basic Sponsorship Package | $300 | - **Visible Logo**: The company's logo will be visible on all promotional materials, including the website and social media<br>- **Promotional Material**: Inclusion of the company's promotional material in participant kits |
+<h3> Premium Sponsorship Package Benefits (700$)</h3> 
+
+- **Visible Logo**: The company's logo will be prominently displayed on all promotional materials, including the website and social media. 
+- **Exhibition Stand**: Dedicated space for an exhibition stand during the workshop.  
+- **Agenda Slot**: Opportunity to give a brief speech or presentation during the workshop. 
+- **Promotional Material**: Inclusion of the company's promotional material in participant kits.
+
+<h3> Basic Sponsorship Package Benefits (300$)</h3> 
+
+- **Visible Logo**: The company's logo will be visible on all promotional materials, including the website and social media. 
+- **Promotional Material**: Inclusion of the company's promotional material in participant kits.
 
 <h3> Benefits for Sponsors </h3>
 
