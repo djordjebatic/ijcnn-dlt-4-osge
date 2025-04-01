@@ -45,7 +45,7 @@ For any inquiries, please contact us at g.tanoni@staff.univpm.it and for additio
 
 - **21 February 2025** - Tutorial Proposal Submission Deadline
 - **3 March 2025** - Notification of Acceptance
-- **TBA** - Workshop & Tutorial Date
+- **4th July 2025, Rome, Italy** - Workshop & Tutorial Date
 
 ## Organizers
 
